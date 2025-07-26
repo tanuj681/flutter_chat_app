@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "641546266359",
+    "firebase_url": "https://chatbytanuj-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatbytanuj",
+    "storage_bucket": "chatbytanuj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641546266359:android:349d0bdb451b58b08795f2",
+        "android_client_info": {
+          "package_name": "com.example.chat_project_tanuj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7_lnb6TXhsKVqMSkF0MzpaCjS-4lQUrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
